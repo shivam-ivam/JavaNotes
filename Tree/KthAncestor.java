@@ -1,3 +1,5 @@
+package Tree;
+
 public class KthAncestor {
     static class Node {
         int data;

@@ -1,3 +1,5 @@
+package Tree;
+
 import java.util.*;
 public class LowestCommAnces { // lowest common ancestor // T.C = O(n)
     static class Node {

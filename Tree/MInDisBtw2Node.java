@@ -1,3 +1,5 @@
+package Tree;
+
 import java.util.*;
 
 public class MInDisBtw2Node {
