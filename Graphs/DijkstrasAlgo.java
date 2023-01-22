@@ -85,6 +85,7 @@ public class DijkstrasAlgo {
             System.out.print(dist[i] + " ");
         }
     }
+    
 
     @SuppressWarnings("unchecked")
     public static void main(String[] args) {
