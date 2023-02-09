@@ -25,8 +25,7 @@ public static int mostWaterOptimized(ArrayList<Integer> height) { // 2 pointer A
         }
     }
     return maxArea;
-}
-    public static void main(String args[]) {
+}   public static void main(String args[]) {
         ArrayList<Integer> height = new ArrayList<>();
         height.add(1);
         height.add(8);
